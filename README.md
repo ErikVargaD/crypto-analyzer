@@ -13,7 +13,7 @@ All the data was extracted from [coincodex](https://coincodex.com/).
 The summary view shows the four primary charts, historical price, volume, market cap and daily variability of price. On top of the charts, a date filter allows to select the range of dates to visualize. On the left side of the screen there's a filter that allows to select multiple cryptos to compare between.
 
 ### Historical Price Chart
--> historical_price.png
+![](https://github.com/ErikVargaD/crypto-analyzer/blob/main/img/historical_price.png)
 
 The historical price chart allows to compare the price between different cryptos, where each data point represents the maximum price of each day, in the interval established in the date filter.
 This chart can be used to establish the most dominant periods, using multiple cryptos to XXXXX
