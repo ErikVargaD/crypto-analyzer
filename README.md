@@ -16,7 +16,7 @@ The summary view shows the four primary charts, historical price, volume, market
 ![](https://github.com/ErikVargaD/crypto-analyzer/blob/main/img/historical_price.png)
 
 The historical price chart allows to compare the price between different cryptos, where each data point represents the maximum price of each day, in the interval established in the date filter.
-This chart can be used to establish the most dominant periods, using multiple cryptos to XXXXX
+This chart can be used to establish the most dominant periods in the market, or to compare cryptos between themselves to identify trends.
 
 The straight lines (not dotted) indicate the average price for each crypto in the period of time specified.
 The dotted line indicates the trend of the crypto, in the specified period of time. 
@@ -28,7 +28,7 @@ In the example above, using both the average and the trend line, we can see that
 The historical market cap chart allows to represent the weight of each crypto in the market. Each data point represents the average market cap of each day, in the interval established in the date filter.
 
 The market cap is a calculated formula, using the total amount of coins in circulation multiplied by the price of the coin.
-Using the previous example, we can see that even though the average price is very similar, the average market cap is almost double on one of them. These could be due to the different amount of coins in circulation, not only the price.
+Using the previous example, we can see that even though the average price is very similar, the average market cap is almost double on one of them. This could be due to the different amount of coins in circulation, not only the price.
 The continuous addition of coins into circulation can create a big difference in market cap over time, and the stability and/or growth in price can show the strenght of the coin.
 
 ### Historical Volume Chart
