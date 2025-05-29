@@ -23,7 +23,7 @@ The dotted line indicates the trend of the crypto, in the specified period of ti
 In the example above, using both the average and the trend line, we can see that even though the average price is very similar, the trend is postive in one and negative in the other, indicating a possible change in dominance between them.
 
 ### Historical Market Cap Chart
--> historical_market_cap.png
+![](https://github.com/ErikVargaD/crypto-analyzer/blob/main/img/historical_market_cap.png)
 
 The historical market cap chart allows to represent the weight of each crypto in the market. Each data point represents the average market cap of each day, in the interval established in the date filter.
 
@@ -32,7 +32,7 @@ Using the previous example, we can see that even though the average price is ver
 The continuous addition of coins into circulation can create a big difference in market cap over time, and the stability and/or growth in price can show the strenght of the coin.
 
 ### Historical Volume Chart
--> historical_volume.png
+![](https://github.com/ErikVargaD/crypto-analyzer/blob/main/img/historical_volume.png)
 
 The historical volume chart represents the total amount of transactions of each day, in the interval established in the date filter, for each crypto.
 
@@ -40,7 +40,7 @@ The volume is used to assess the trends and the market sentiment overall, indica
 The average volume over time can be used to compare the overall interest of the market in each coin, meanwhile a positive trend indicates a possible future perspective and a growing interest.
 
 ### Daily Variability of Price
--> daily_var_price.png
+![](https://github.com/ErikVargaD/crypto-analyzer/blob/main/img/daily_var_price.png)
 
 The daily variabily of price chart represents the difference, in percentage, between the maximum and the minimum price of the day compared to the average, in the interval established in the date filter.
 
